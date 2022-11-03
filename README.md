@@ -61,7 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-http://github-readme-streak-stats.herokuapp.com/?user=brunof344&theme=onedark_duo)](https://git.io/streak-stats)
+http://github-readme-streak-stats.herokuapp.com/?user=brunof344&theme=onedark_duo
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=brunof344&layout=compact&theme=vision-friendly-dark
 
