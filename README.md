@@ -31,9 +31,10 @@ I'm a technician in System Development <img src="https://media.giphy.com/media/W
 
 - :airplane: I study as much as I can, because someday I can live in Europe and work my way into a enterprise of development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :books: I speak Portuguese fluently, as well as intermediary English.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :globe_with_meridians: For my hobbies, I enjoy playing games, practicing English with people across the world, and I like to study.
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bruno-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-br-435aba239/)
 
