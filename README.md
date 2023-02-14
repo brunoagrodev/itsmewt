@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a technician in System Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil
+I'm a technician in System Development and a student of a Bachelor's degree in Information Systems. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil
 
 - :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 
