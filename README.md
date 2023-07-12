@@ -60,7 +60,7 @@ I'm a technician in System Development and a student of a Bachelor's degree in I
 ### :fire: My Stats :
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunof344&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmewt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ---
